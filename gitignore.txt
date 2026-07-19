@@ -1,0 +1,15 @@
+# --- Données personnelles : NE JAMAIS committer ---
+# Sauvegardes de l'application
+sauvegarde_LMNP_*.json
+*_backup.json
+# Documents sources (relevés, avis, échéanciers, factures)
+*.pdf
+*.zip
+# Exports comptables
+LMNP_*.csv
+*_mois_par_mois.csv
+*_detail_par_piece.csv
+
+# Divers
+.DS_Store
+Thumbs.db
