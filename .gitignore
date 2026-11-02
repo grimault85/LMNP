@@ -5,6 +5,13 @@ sauvegarde_LMNP_*.json
 # Documents sources (relevés, avis, échéanciers, factures)
 *.pdf
 *.zip
+# Photos / scans de factures
+*.jpg
+*.jpeg
+*.png
+*.webp
+*.bmp
+*.gif
 # Exports comptables
 LMNP_*.csv
 *_mois_par_mois.csv
